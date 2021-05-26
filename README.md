@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maqsood2k7
-- 👀 I’m interested in different technologies like Flutter, React.js, React Native, Python
+- 👀 I’m interested in different technologies like Flutter, React.js, React Native, Python and many others
 - 🌱 I’m currently improving my Flutter skills
 - 📫 How to reach me dmakmob@gmail.com
 
